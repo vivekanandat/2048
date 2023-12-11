@@ -1,0 +1,59 @@
+body{
+    background-image: url(game.png);
+}
+div{
+    width: 90px;
+    height: 90px;
+    align-items: center;
+    border-radius: 5px;
+    margin: 2px;
+    text-align: center;
+    font-size: 46px;
+    color: white;
+    float: left;
+}
+._2{
+    background-color: rgb(255, 229, 203);
+    color: black;
+}
+._4{
+    background-color: rgb(243, 219, 174);
+    color: black;
+}
+._8{
+    background-color: rgb(242,177,121);
+}
+._16{
+    background-color: rgb(242,149,99);
+}
+._32{
+    background-color: rgb(246,124,96);
+}
+._64{
+    background-color: rgb(246,94,56);
+}
+._128{
+    background-color: rgb(237,207,115);
+}
+._256{
+    background-color: rgb(237,204,98);
+}
+._512{
+    background-color: rgb(237,200,80);
+}
+._1024{
+    background-color: rgb(237,197,63);
+}
+._2048{
+    background-color: rgb(237,194,45);
+}
+#score{
+    font-size: 30px;
+    color: black;
+    background-color: rgba(255, 162, 0, 0.258);
+    border-radius: 5px;
+    width: 375px;
+}
+p{
+    text-align: center;
+}
